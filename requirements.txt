@@ -1,0 +1,16 @@
+streamlit
+torch
+transformers==4.53.3
+sentencepiece
+accelerate
+
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+
+chromadb
+
+sentence-transformers
+
+pypdf
